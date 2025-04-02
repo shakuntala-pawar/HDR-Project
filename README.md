@@ -10,11 +10,11 @@ Requirements
 
 Dataset
 The MNIST dataset, which can be loaded directly from TensorFlow/Keras or downloaded from other sources.
-Steps to Implement
-1. Data Loading and Preprocessing:
-2. Exploratory Data Analysis (EDA):
+Steps to Implement 
+1. Data Loading and Preprocessing
+2. Exploratory Data Analysis (EDA)
 3. Model Design
-4. Model Design:
+4. Model Design
 5. Model Compilation
 6. Model Training
 7. Evaluation
